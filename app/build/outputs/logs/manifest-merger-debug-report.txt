@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\89410c2c175fc26ef8b1dd3b48ba0148\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf5fc30e2af3ba2449fac9a2ebfb52e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\c7096a4b3bc75caaf5d0fef4f709008b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\30f3acaed9518a8856a3f24eebcc48f5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d02b03559eccb84406645e4325bc9ced\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\4ad73f4b6ac9c678b9e171bc2cf11eae\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3c0ea2779ef161884783dfa16aed18df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\140b6d132a464850585085ceac3238bf\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\1300d547e2def28133469ab5d8e490a6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\a68d970d95ac11595149b76389271356\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\68037c39ceb43710ae78783899041154\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\b88c5bb2591326f2c98e10d42fa26cd3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\950d80167a1b84fb04d068f5a9d39df6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\99557b197ebf57040b026aebe482de0a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\774eb94ad33b87ddbdb85722b6e5c666\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\3224bba7c954099a4972cfefa554f68c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\3ffbfc0eb773b808b111386a07639bab\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e6a914aaa037d55f66f67a3b19139a75\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\9cd1eae56f6681ca45b029fb3acfd81a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\0b9d7684eb9edc4b1e116614e1952185\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\a50d92d19ad0630909129a4c3fb35464\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\96911bf5c5923a4432499590e8848d96\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\afc7dc04b42bdc1090a8f3ebe6489551\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2d7f0832a4ba19df7c369db88cef7e36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\15f63dfef74af45e2e0ea299786bb6a9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf5fc30e2af3ba2449fac9a2ebfb52e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf5fc30e2af3ba2449fac9a2ebfb52e7\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.abid357.guessthecharacter.MainActivity
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\89410c2c175fc26ef8b1dd3b48ba0148\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\89410c2c175fc26ef8b1dd3b48ba0148\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf5fc30e2af3ba2449fac9a2ebfb52e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\bf5fc30e2af3ba2449fac9a2ebfb52e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\c7096a4b3bc75caaf5d0fef4f709008b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\c7096a4b3bc75caaf5d0fef4f709008b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\30f3acaed9518a8856a3f24eebcc48f5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\30f3acaed9518a8856a3f24eebcc48f5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d02b03559eccb84406645e4325bc9ced\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d02b03559eccb84406645e4325bc9ced\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\4ad73f4b6ac9c678b9e171bc2cf11eae\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\4ad73f4b6ac9c678b9e171bc2cf11eae\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3c0ea2779ef161884783dfa16aed18df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3c0ea2779ef161884783dfa16aed18df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\140b6d132a464850585085ceac3238bf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\140b6d132a464850585085ceac3238bf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\1300d547e2def28133469ab5d8e490a6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\1300d547e2def28133469ab5d8e490a6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\a68d970d95ac11595149b76389271356\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\a68d970d95ac11595149b76389271356\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\68037c39ceb43710ae78783899041154\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\68037c39ceb43710ae78783899041154\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\b88c5bb2591326f2c98e10d42fa26cd3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\b88c5bb2591326f2c98e10d42fa26cd3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\950d80167a1b84fb04d068f5a9d39df6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\950d80167a1b84fb04d068f5a9d39df6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\99557b197ebf57040b026aebe482de0a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\99557b197ebf57040b026aebe482de0a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\774eb94ad33b87ddbdb85722b6e5c666\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\774eb94ad33b87ddbdb85722b6e5c666\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\3224bba7c954099a4972cfefa554f68c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\3224bba7c954099a4972cfefa554f68c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\3ffbfc0eb773b808b111386a07639bab\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\3ffbfc0eb773b808b111386a07639bab\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e6a914aaa037d55f66f67a3b19139a75\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\e6a914aaa037d55f66f67a3b19139a75\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\9cd1eae56f6681ca45b029fb3acfd81a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\9cd1eae56f6681ca45b029fb3acfd81a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\0b9d7684eb9edc4b1e116614e1952185\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\0b9d7684eb9edc4b1e116614e1952185\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\a50d92d19ad0630909129a4c3fb35464\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\a50d92d19ad0630909129a4c3fb35464\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\96911bf5c5923a4432499590e8848d96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\96911bf5c5923a4432499590e8848d96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\afc7dc04b42bdc1090a8f3ebe6489551\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\afc7dc04b42bdc1090a8f3ebe6489551\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2d7f0832a4ba19df7c369db88cef7e36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2d7f0832a4ba19df7c369db88cef7e36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\15f63dfef74af45e2e0ea299786bb6a9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abid357-PC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\15f63dfef74af45e2e0ea299786bb6a9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Abid357-PC\AndroidStudioProjects\GuessTheCharacter\app\src\main\AndroidManifest.xml
